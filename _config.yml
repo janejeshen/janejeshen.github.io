@@ -1,4 +1,3 @@
-```yaml
 # The Site Configuration
 
 # Import the theme
@@ -10,7 +9,7 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://zones.arilyn.cc
-timezone:
+timezone: Africa/Nairobi
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -19,12 +18,12 @@ title: "Jane Njuguna" # the main title
 
 tagline: "Data Engineer | Data Analyst | Data Scientist" # it will display as the subtitle
 
-description: >- # used by seo meta and the atom feed
-  Jane Njuguna is a data professional focused on data analysis, data engineering, and data science, using data to turn information into meaningful insights and solutions."
+description: >-
+  Jane Njuguna is a data professional focused on data analysis, data engineering, and data science, using data to turn information into meaningful insights and solutions.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://janejeshen.github.io/"
+url: "https://janejeshen.github.io"
 
 github:
   username: janejeshen # change to your GitHub username
@@ -235,4 +234,3 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-```
