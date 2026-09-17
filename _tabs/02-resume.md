@@ -1,16 +1,15 @@
-```markdown
 ---
 layout: page
-title: Resume
 icon: fas fa-file-alt
 order: 2
+title: Resume
 ---
 
 # Resume
 
 ## Professional Profile
 
-Data professional with experience in data analysis, business intelligence, data visualization, and machine learning. I work with data to uncover insights, support decision-making, and develop practical solutions. I am also expanding my skills in data engineering and modern data technologies.
+Data professional with experience in data analysis, business intelligence, data visualization, and machine learning. I work with data to uncover insights, support decision-making, and develop practical solutions that support informed business decisions.
 
 ---
 
@@ -108,4 +107,3 @@ January 2024 – January 2026
 - [GitHub](https://github.com/janejeshen)
 - [LinkedIn](https://www.linkedin.com/in/jane-njuguna)
 - [Email](mailto:janenjuguna550@gmail.com)
-```
