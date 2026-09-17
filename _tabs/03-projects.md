@@ -1,9 +1,8 @@
-```markdown
 ---
 layout: page
-title: Projects
 icon: fas fa-code
 order: 3
+title: Projects
 ---
 
 # Projects
@@ -115,4 +114,3 @@ Achieved a **cross-validation Macro F1 score of 0.8663**.
 `Python` `LightGBM` `Optuna` `Scikit-learn` `Sentinel-2` `Geospatial Data` `Machine Learning`
 
 [View Project on GitHub](https://github.com/janejeshen)
-```
