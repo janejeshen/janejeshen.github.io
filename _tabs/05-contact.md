@@ -1,9 +1,8 @@
-```markdown
 ---
 layout: page
-title: Contact
 icon: fas fa-envelope
 order: 5
+title: Contact
 ---
 
 # Contact
@@ -27,4 +26,3 @@ I'd be happy to connect with you about data, technology, projects, collaboration
 Whether you would like to discuss a project, collaborate on a data-related idea, or simply connect professionally, feel free to reach out.
 
 [Email Me](mailto:janenjuguna550@gmail.com)
-```
