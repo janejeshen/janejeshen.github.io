@@ -1,9 +1,8 @@
-```markdown
 ---
 layout: page
-title: Challenges
 icon: fas fa-flask
 order: 4
+title: Lab Challenges
 ---
 
 # Lab Challenges
@@ -87,4 +86,3 @@ Additional lab challenges and practical exercises will be added here as I contin
 - dbt
 - Data Engineering
 - Data Science and AI
-```
