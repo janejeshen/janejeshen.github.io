@@ -1,6 +1,7 @@
 ```markdown
 ---
 layout: page
+title: Challenges
 icon: fas fa-flask
 order: 4
 ---
