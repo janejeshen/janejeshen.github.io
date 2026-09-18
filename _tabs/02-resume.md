@@ -5,11 +5,33 @@ order: 2
 title: Resume
 ---
 
-# Resume
-
 ## Professional Profile
 
-Data professional with experience in data analysis, business intelligence, data visualization, and machine learning. I work with data to uncover insights, support decision-making, and develop practical solutions that support informed business decisions.
+Data professional working across **data analytics, business intelligence, data science, and machine learning**, with a growing focus on data engineering. I use data to uncover insights, build practical solutions, and support better decision-making.
+
+---
+
+## Achievements
+
+### Proof of Impact
+
+A selection of competition achievements and project outcomes demonstrating hands-on experience across analytics, BI, machine learning, and AI.
+
+### Top Female Competition Award
+
+Recognized for strong performance in a data science competition.
+
+### Top 10 Competition Finish
+
+Ranked among the top participants in a competitive data challenge.
+
+### 30+ Dashboards Delivered
+
+Built interactive dashboards supporting reporting, performance monitoring, and decision-making.
+
+### 10+ Projects Completed
+
+Completed hands-on projects across data analytics, business intelligence, machine learning, and AI.
 
 ---
 
@@ -19,7 +41,7 @@ Data professional with experience in data analysis, business intelligence, data 
 
 **Zetech University**  
 January 2024 – November 2025  
-GPA: 3.72
+GPA: **3.72**
 
 ### Nanodegree in Data Science
 
@@ -65,45 +87,49 @@ January 2024 – January 2026
 
 ---
 
-## Certifications & Training
+## Skills & Expertise
 
-- Data Science & Analytics — Zetech University
-- Data Science Nanodegree — Moringa School
-- Ongoing Data Engineering training
-- Ongoing Data Science & AI training
+### A Growing Data Stack
 
----
-
-## Technical Skills
+Technologies used to build analytics solutions, business intelligence dashboards, machine learning systems, and AI applications, alongside an active move into data engineering.
 
 ### Programming & Databases
 
-**Python · SQL · T-SQL · PostgreSQL · MySQL · SQL Server · Amazon Redshift**
+**Python · SQL · PostgreSQL · SQL Server · Git · Bash**
 
-### Data Analysis & Statistics
+### Analytics & Statistics
 
-**Exploratory Data Analysis · Statistical Analysis · Hypothesis Testing · A/B Testing · Forecasting · KPI Analysis**
+**Exploratory Data Analysis · Statistics · Data Cleaning · Data Validation · Feature Engineering · Data Analysis**
 
-### Data Visualization & BI
+### Business Intelligence
 
-**Power BI · Advanced Excel · Looker Studio · Tableau · Plotly · Streamlit**
-
-### Data Engineering
-
-**ETL/ELT · Data Pipelines · Data Transformation · Data Validation · Data Warehousing Concepts · dbt · Docker · AWS S3**
+**Power BI · DAX · Excel · Data Storytelling · Dashboard Design**
 
 ### Machine Learning & AI
 
-**XGBoost · LightGBM · Natural Language Processing · LLM Applications**
+**Scikit-learn · Machine Learning · NLP · LLMs · AI Applications · Prompt Engineering**
 
-### Tools
+### Geospatial AI
 
-**Git · GitHub · Jupyter · Google Colab · VS Code · Jira**
+**Google Earth Engine · CHIRPS · ERA5 · GeoPandas · Rasterio · Folium · Spatial Analysis**
+
+### Tools & Platforms
+
+**AWS · Docker · Linux / WSL · dbt · Streamlit · Databricks · GitHub**
+
+---
+
+## Certifications & Training
+
+- **Diploma in Data Science & Analytics** — Zetech University
+- **Data Science Nanodegree** — Moringa School
+- **Data Engineering Training** — Ongoing
+- **Data Science & AI Training** — Ongoing
 
 ---
 
 ## Professional Links
 
-- [GitHub](https://github.com/janejeshen)
-- [LinkedIn](https://www.linkedin.com/in/jane-njuguna)
-- [Email](mailto:janenjuguna550@gmail.com)
+- **GitHub:** [github.com/janejeshen](https://github.com/janejeshen)
+- **LinkedIn:** [linkedin.com/in/jane-njuguna](https://www.linkedin.com/in/jane-njuguna)
+- **Email:** [janenjuguna550@gmail.com](mailto:janenjuguna550@gmail.com)
